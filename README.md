@@ -96,6 +96,46 @@ I'm working every day to improve my programming skills and build meaningful proj
 
 ---
 
+## 🏆 Hackathon Project
+
+### 🐞 BUG BUSTER — AI-Powered Bug Analysis & Reporting
+
+A hackathon project designed to make the software bug-fixing process more structured and efficient.
+
+**🔄 Workflow:**
+
+`Bug → Evidence → Root Cause → Fix → Test → Verify`
+
+### ✨ Key Features
+
+* 🐞 Bug reporting
+* 📸 Evidence collection
+* 🔍 Root-cause analysis
+* 🛠️ Suggested fix
+* 🧪 Testing & verification
+* 📊 Structured bug workflow
+
+### 💡 Why We Built It
+
+Developers often spend a lot of time understanding bugs, collecting evidence, finding the root cause, and verifying fixes.
+
+**BUG BUSTER** aims to organize this complete process into one simple workflow.
+
+### 👥 Team
+
+**Team Name:** BUG BUSTER
+**Team Size:** 3 Members
+**Project Type:** Hackathon Project
+
+### 🛠️ Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</p>
+
+
 ## 🤝 Let's Connect
 
 <p align="left">
